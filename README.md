@@ -32,9 +32,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ### License
 
-<img src="https://picsum.photos/seed/picsum/200/300" alt="Resim" style="zoom:50%; " /> 
-
-
-
 [MIT](https://choosealicense.com/licenses/mit/) 
 
+<img src="https://picsum.photos/seed/picsum/200/300" alt="Resim" style="zoom:50%; " /> 
