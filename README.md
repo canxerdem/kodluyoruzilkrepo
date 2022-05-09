@@ -32,7 +32,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ### License
 
-<img src="C:\Users\Can\Desktop\Screenshot_1.png" alt="Resim" style="zoom:50%; " /> 
+<img src="https://picsum.photos/seed/picsum/200/300" alt="Resim" style="zoom:50%; " /> 
 
 
 
